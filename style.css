@@ -41,7 +41,7 @@ body{
 #text-header{
        
     font-family: 'Archivo Black', sans-serif;
-    font-size: 40px;
+    font-size: 30px;
     }
 #paragraph {
     color: gray;
@@ -57,7 +57,7 @@ body{
 }
 .box{
    
-    padding:20px;
+    padding:20px 20px;
     border:2px solid white;
     width:40px;
     height:20px;
@@ -107,6 +107,43 @@ body{
     margin-top:10px;
     font-family: 'Courier New', Courier, monospace;
 
+}
+.container-width{
+    width:80%;
+    margin-top:40px;
+    display:flex;
+    margin-left:10%;
+   ;
+
+}
+
+.left-width{
+    width:25%;
+    height:20%;
+    margin-left:10%;
+    padding:40px 10px 10px;
+    background-color:pink;
+    border-radius:5px ;
+    
+}
+.center{
+    width:25%;
+    height:20%;
+    margin-left:5%;
+    margin-right:5%;
+    padding:40px 10px 10px;
+    background-color:grey;
+    border-radius:5px ;
+    
+}
+.right-width{
+    width:25%;
+    height:20%;
+    margin-right:10%;
+    padding:40px 10px 10px;
+    background-color: aquamarine;
+    border-radius:5px ;
+    
 }
 
 
