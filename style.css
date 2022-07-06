@@ -1,5 +1,6 @@
 body{
     margin:0 auto; 
+    display:block;
 }
 
 .content-wrapper{
@@ -132,7 +133,7 @@ body{
     margin-left:5%;
     margin-right:5%;
     padding:40px 10px 10px;
-    background-color:grey;
+    background-color:darkslategray;
     border-radius:5px ;
     
 }
@@ -144,6 +145,52 @@ body{
     background-color: aquamarine;
     border-radius:5px ;
     
+}
+.sidebar{
+    width:80%;
+    margin-top:40px;
+    display: flex;
+   
+}
+#left-side{
+    width:300px;
+    height:300px;
+    margin-left:25%;
+   
+
+
+}
+#heading{
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    
+
+}
+#img{
+    width:300px;
+    height:300px;
+    margin-left:30%;
+    border-radius:5px ;
+}
+#button3{
+
+    padding:10px;
+    color:white;
+    background-color: brown;
+    border-radius:5px;
+    font-size:medium;
+    border:solid brown 2px;
+    margin-top:10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.paragraph{
+    
+}
+#paragraph-color{
+    color: gray;
+    font-weight:bold;
+
 }
 
 
