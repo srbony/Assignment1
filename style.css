@@ -236,6 +236,20 @@ body{
     
     
 }
+.footer{
+    text-align: center;
+    border: cornflowerblue;
+     margin-top:70%;
+     padding:20px;
+     background-color:rgba(0, 0, 0, 0.295); 
+     color:gray;
+}
+.footer h2{
+    font-family: 'Lobster', cursive;
+    color:brown;
+}
+.footer p{
+    color:white;
 }
 
 
