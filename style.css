@@ -31,4 +31,19 @@ body{
     
    
 }
+.donate-text{
+    text-align: center;
+    text-transform:initial;
+}
+#text-header{
+       
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 50px;
+    }
+#paragraph {
+    color: gray;
+    font-weight:bold;
+}
+   
+ 
 
